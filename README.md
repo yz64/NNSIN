@@ -1,2 +1,2 @@
 # NNSIN
-- Pytorchでsin波
+- PyTorch
